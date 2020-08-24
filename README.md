@@ -8,7 +8,7 @@ How can I help you?
 🌎 [fabio.sangregorio.dev](https://fabio.sangregorio.dev)
 
 
-## :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#23](https://github.com//Parquery/pyicontract-lint/issues/23) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
@@ -19,7 +19,7 @@ How can I help you?
 <!--END_SECTION:activity-->
 
 
-## 📈 Stats
+### 📈 Stats
 
 
 <a href="https://github.com/fabiosangregorio">
