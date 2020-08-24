@@ -11,7 +11,7 @@ How can I help you?
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosangregorio&layout=compact&title_color=24292e" />
 </a>
 <a href="https://github.com/fabiosangregorio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosangregorio&show_icons=true&theme=graywhite&count_private=true&hide_rank=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosangregorio&show_icons=true&theme=graywhite&count_private=true&hide_rank=true&include_all_commits=true&bg_color=fffefe&hide=stars" />
 </a>
 
 
