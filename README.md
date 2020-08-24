@@ -18,6 +18,10 @@ How can I help you?
 5. ❗️ Opened issue [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
 <!--END_SECTION:activity-->
 
+
+---
+
+
 <a href="https://github.com/fabiosangregorio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosangregorio&layout=compact&title_color=24292e" />
 </a>
