@@ -7,7 +7,6 @@ How can I help you?
 
 🌎 [fabio.sangregorio.dev](https://fabio.sangregorio.dev)
 
----
 
 ### :zap: Recent Activity
 
@@ -18,8 +17,6 @@ How can I help you?
 4. 🗣 Commented on [#15](https://github.com//Parquery/pyicontract-lint/issues/15) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
 5. ❗️ Opened issue [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
 <!--END_SECTION:activity-->
-
----
 
 <!--
 **jamesgeorge007/jamesgeorge007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
