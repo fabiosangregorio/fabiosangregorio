@@ -23,10 +23,10 @@ How can I help you?
 
 
 <a href="https://github.com/fabiosangregorio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosangregorio&layout=compact&title_color=24292e" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosangregorio&layout=compact&title_color=24292e&bg_color=ffffff" />
 </a>
 <a href="https://github.com/fabiosangregorio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosangregorio&show_icons=true&theme=graywhite&count_private=true&hide_rank=true&include_all_commits=true&bg_color=fffefe&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosangregorio&show_icons=true&theme=graywhite&count_private=true&hide_rank=true&include_all_commits=true&bg_color=ffffff&hide=stars" />
 </a>
 
 <!--
