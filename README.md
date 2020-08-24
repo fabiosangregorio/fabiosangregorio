@@ -19,7 +19,7 @@ How can I help you?
 <!--END_SECTION:activity-->
 
 
----
+## 📈 Stats
 
 
 <a href="https://github.com/fabiosangregorio">
