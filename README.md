@@ -3,7 +3,8 @@
 I’m a computer engineering graduate currently working as a frontend web developer in Bergamo, Italy. I can help you with building all-things web - especially web apps - and software.
 How can I help you?
 
-📫 [fabio.sangregorio.dev](mailto:fabio.sangregorio.dev)
+📫 [fabio@sangregorio.dev](mailto:fabio@sangregorio.dev)
+🌎 [fabio.sangregorio.dev](https://fabio.sangregorio.dev)
 
 ---
 
