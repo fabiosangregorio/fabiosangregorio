@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com//Parquery/pyicontract-lint/issues/23) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
-2. 🗣 Commented on [#21](https://github.com//Parquery/pyicontract-lint/issues/21) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
+1. 🗣 Commented on [#292](https://github.com//anuraghazra/github-readme-stats/issues/292) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+2. ❗️ Opened issue [#23](https://github.com//Parquery/pyicontract-lint/issues/23) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
 3. 🗣 Commented on [#21](https://github.com//Parquery/pyicontract-lint/issues/21) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
-4. 🗣 Commented on [#15](https://github.com//Parquery/pyicontract-lint/issues/15) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
-5. ❗️ Opened issue [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
+4. 🗣 Commented on [#21](https://github.com//Parquery/pyicontract-lint/issues/21) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
+5. 🗣 Commented on [#15](https://github.com//Parquery/pyicontract-lint/issues/15) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
 <!--END_SECTION:activity-->
 
 
