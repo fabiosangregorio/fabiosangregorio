@@ -1,4 +1,4 @@
-### Hey there! 👋 I’m Fabio, developer, student and ski lover.
+## Hey there! 👋 I’m Fabio, developer, student and ski lover.
 
 I’m a computer engineering graduate currently working as a frontend web developer in Bergamo, Italy. I can help you with building all-things web - especially web apps - and software.
 How can I help you?
