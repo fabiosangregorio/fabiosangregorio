@@ -1,4 +1,4 @@
-## Hey there! 👋 I’m Fabio, developer, student and ski lover.
+# Hey there! 👋 I’m Fabio, developer, student and ski lover.
 
 I’m a computer engineering graduate currently working as a frontend web developer in Bergamo, Italy. I can help you with building all-things web - especially web apps - and software.
 How can I help you?
@@ -8,7 +8,7 @@ How can I help you?
 🌎 [fabio.sangregorio.dev](https://fabio.sangregorio.dev)
 
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#23](https://github.com//Parquery/pyicontract-lint/issues/23) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
