@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com//fabiosangregorio/links-disabler)
-2. ❗️ Opened issue [#6](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/6) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
-3. ❗️ Opened issue [#5](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/5) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
-4. 🗣 Commented on [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
-5. 🗣 Commented on [#23](https://github.com//Parquery/pyicontract-lint/issues/23) in [Parquery/pyicontract-lint](https://github.com//Parquery/pyicontract-lint)
+1. 🗣 Commented on [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
+2. 🗣 Commented on [#3](https://github.com//fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com//fabiosangregorio/links-disabler)
+3. ❗️ Opened issue [#6](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/6) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
+4. ❗️ Opened issue [#5](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/5) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
+5. 🗣 Commented on [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
 <!--END_SECTION:activity-->
 
 
