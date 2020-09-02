@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com//fabiosangregorio/telereddit/pull/32) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
-2. 🗣 Commented on [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
-3. 🗣 Commented on [#3](https://github.com//fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com//fabiosangregorio/links-disabler)
-4. ❗️ Opened issue [#6](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/6) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
-5. ❗️ Opened issue [#5](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/5) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
+1. 💪 Opened PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
+2. 💪 Opened PR [#32](https://github.com//fabiosangregorio/telereddit/pull/32) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
+3. 🗣 Commented on [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
+4. 🗣 Commented on [#3](https://github.com//fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com//fabiosangregorio/links-disabler)
+5. ❗️ Opened issue [#6](https://github.com//fabiosangregorio/google-calendar-quick-duplicate/issues/6) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com//fabiosangregorio/google-calendar-quick-duplicate)
 <!--END_SECTION:activity-->
 
 
