@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
-2. 💪 Opened PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
-3. 💪 Opened PR [#32](https://github.com//fabiosangregorio/telereddit/pull/32) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
-4. 🗣 Commented on [#29](https://github.com//HunterMcGushion/docstr_coverage/issues/29) in [HunterMcGushion/docstr_coverage](https://github.com//HunterMcGushion/docstr_coverage)
-5. 🗣 Commented on [#3](https://github.com//fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com//fabiosangregorio/links-disabler)
+1. ❌ Closed PR [#3](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/3) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+2. ❌ Closed PR [#2](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/2) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+3. ❌ Closed PR [#1](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/1) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+4. 🎉 Merged PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
+5. 💪 Opened PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
 <!--END_SECTION:activity-->
 
 
