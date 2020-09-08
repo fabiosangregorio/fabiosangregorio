@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/3) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
-2. ❌ Closed PR [#2](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/2) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
-3. ❌ Closed PR [#1](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/1) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
-4. 🎉 Merged PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
-5. 💪 Opened PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
+1. ❗️ Opened issue [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
+2. ❌ Closed PR [#3](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/3) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+3. ❌ Closed PR [#2](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/2) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+4. ❌ Closed PR [#1](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/1) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+5. 🎉 Merged PR [#33](https://github.com//fabiosangregorio/telereddit/pull/33) in [fabiosangregorio/telereddit](https://github.com//fabiosangregorio/telereddit)
 <!--END_SECTION:activity-->
 
 
