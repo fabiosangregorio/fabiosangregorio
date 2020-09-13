@@ -12,10 +12,10 @@ How can I help you?
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
-2. ❗️ Opened issue [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
-3. ❌ Closed PR [#3](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/3) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
-4. ❌ Closed PR [#2](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/2) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
-5. ❌ Closed PR [#1](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/1) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+2. 🗣 Commented on [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
+3. ❗️ Opened issue [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
+4. ❌ Closed PR [#3](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/3) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
+5. ❌ Closed PR [#2](https://github.com//fabiosangregorio/fabio.sangregorio.dev/pull/2) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com//fabiosangregorio/fabio.sangregorio.dev)
 <!--END_SECTION:activity-->
 
 
