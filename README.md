@@ -11,9 +11,9 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com//dragonwocky/notion-enhancer/issues/83) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
-2. ❗️ Closed issue [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
-3. 🗣 Commented on [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
+1. ❗️ Opened issue [#107](https://github.com//dragonwocky/notion-enhancer/issues/107) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
+2. 🗣 Commented on [#83](https://github.com//dragonwocky/notion-enhancer/issues/83) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
+3. ❗️ Closed issue [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
 4. 🗣 Commented on [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
 5. 🗣 Commented on [#92](https://github.com//dragonwocky/notion-enhancer/issues/92) in [dragonwocky/notion-enhancer](https://github.com//dragonwocky/notion-enhancer)
 <!--END_SECTION:activity-->
