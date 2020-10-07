@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#35](https://github.com/fabiosangregorio/telereddit/issues/35) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-2. 🎉 Merged PR [#34](https://github.com/fabiosangregorio/telereddit/pull/34) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-3. 💪 Opened PR [#34](https://github.com/fabiosangregorio/telereddit/pull/34) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-4. 🗣 Commented on [#107](https://github.com/dragonwocky/notion-enhancer/issues/107) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
-5. ❗️ Opened issue [#107](https://github.com/dragonwocky/notion-enhancer/issues/107) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+1. ❗️ Opened issue [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+2. ❗️ Closed issue [#35](https://github.com/fabiosangregorio/telereddit/issues/35) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+3. 🎉 Merged PR [#34](https://github.com/fabiosangregorio/telereddit/pull/34) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+4. 💪 Opened PR [#34](https://github.com/fabiosangregorio/telereddit/pull/34) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+5. 🗣 Commented on [#107](https://github.com/dragonwocky/notion-enhancer/issues/107) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
 <!--END_SECTION:activity-->
 
 
