@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
-2. 🗣 Commented on [#5](https://github.com/fabiosangregorio/google-calendar-quick-duplicate/issues/5) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com/fabiosangregorio/google-calendar-quick-duplicate)
-3. ❗️ Opened issue [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
-4. ❗️ Closed issue [#35](https://github.com/fabiosangregorio/telereddit/issues/35) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-5. 🎉 Merged PR [#34](https://github.com/fabiosangregorio/telereddit/pull/34) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+1. 🗣 Commented on [#84](https://github.com/dragonwocky/notion-enhancer/issues/84) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+2. 🗣 Commented on [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+3. 🗣 Commented on [#5](https://github.com/fabiosangregorio/google-calendar-quick-duplicate/issues/5) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com/fabiosangregorio/google-calendar-quick-duplicate)
+4. ❗️ Opened issue [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+5. ❗️ Closed issue [#35](https://github.com/fabiosangregorio/telereddit/issues/35) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
 <!--END_SECTION:activity-->
 
 
