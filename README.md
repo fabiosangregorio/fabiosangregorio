@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/dragonwocky/notion-enhancer/issues/84) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
-2. 🗣 Commented on [#84](https://github.com/dragonwocky/notion-enhancer/issues/84) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
-3. 🗣 Commented on [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
-4. 🗣 Commented on [#5](https://github.com/fabiosangregorio/google-calendar-quick-duplicate/issues/5) in [fabiosangregorio/google-calendar-quick-duplicate](https://github.com/fabiosangregorio/google-calendar-quick-duplicate)
-5. ❗️ Opened issue [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+1. ❗️ Opened issue [#170](https://github.com/dragonwocky/notion-enhancer/issues/170) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+2. 🗣 Commented on [#168](https://github.com/dragonwocky/notion-enhancer/issues/168) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+3. 🗣 Commented on [#84](https://github.com/dragonwocky/notion-enhancer/issues/84) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+4. 🗣 Commented on [#84](https://github.com/dragonwocky/notion-enhancer/issues/84) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+5. 🗣 Commented on [#94](https://github.com/blaisewang/img2latex-mathpix/issues/94) in [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 <!--END_SECTION:activity-->
 
 
