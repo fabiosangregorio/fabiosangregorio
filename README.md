@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#261](https://github.com/notion-enhancer/notion-enhancer/issues/261) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-2. ❗️ Opened issue [#260](https://github.com/notion-enhancer/notion-enhancer/issues/260) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-3. ❗️ Opened issue [#256](https://github.com/notion-enhancer/notion-enhancer/issues/256) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-4. 🗣 Commented on [#170](https://github.com/dragonwocky/notion-enhancer/issues/170) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
-5. 🗣 Commented on [#181](https://github.com/dragonwocky/notion-enhancer/issues/181) in [dragonwocky/notion-enhancer](https://github.com/dragonwocky/notion-enhancer)
+1. 🎉 Merged PR [#4](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/4) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
+2. 💪 Opened PR [#4](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/4) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
+3. ❗️ Opened issue [#261](https://github.com/notion-enhancer/notion-enhancer/issues/261) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+4. ❗️ Opened issue [#260](https://github.com/notion-enhancer/notion-enhancer/issues/260) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+5. ❗️ Opened issue [#256](https://github.com/notion-enhancer/notion-enhancer/issues/256) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
 <!--END_SECTION:activity-->
 
 
