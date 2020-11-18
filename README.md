@@ -11,10 +11,10 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-2. 🗣 Commented on [#40](https://github.com/jamesgeorge007/github-activity-readme/issues/40) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ❗️ Opened issue [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-4. 🗣 Commented on [#2](https://github.com/notion-enhancer/icons/issues/2) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+1. ❗️ Opened issue [#4](https://github.com/notion-enhancer/icons/issues/4) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+2. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+3. 🗣 Commented on [#40](https://github.com/jamesgeorge007/github-activity-readme/issues/40) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. ❗️ Opened issue [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
 5. 🗣 Commented on [#2](https://github.com/notion-enhancer/icons/issues/2) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
 <!--END_SECTION:activity-->
 
