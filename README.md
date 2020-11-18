@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/notion-enhancer/icons/pull/2) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-2. 🗣 Commented on [#196](https://github.com/notion-enhancer/notion-enhancer/issues/196) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
-3. 🎉 Merged PR [#4](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/4) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
-4. 💪 Opened PR [#4](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/4) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
-5. ❗️ Opened issue [#261](https://github.com/notion-enhancer/notion-enhancer/issues/261) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+1. 🗣 Commented on [#2](https://github.com/notion-enhancer/icons/issues/2) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+2. 💪 Opened PR [#2](https://github.com/notion-enhancer/icons/pull/2) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+3. 🗣 Commented on [#196](https://github.com/notion-enhancer/notion-enhancer/issues/196) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+4. 🎉 Merged PR [#4](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/4) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
+5. 💪 Opened PR [#4](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/4) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
 <!--END_SECTION:activity-->
 
 
