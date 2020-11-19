@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/notion-enhancer/icons/issues/6) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-2. 🗣 Commented on [#6](https://github.com/notion-enhancer/icons/issues/6) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-3. ❗️ Opened issue [#6](https://github.com/notion-enhancer/icons/issues/6) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-4. ❗️ Opened issue [#4](https://github.com/notion-enhancer/icons/issues/4) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-5. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+1. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+2. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+3. ❗️ Closed issue [#6](https://github.com/notion-enhancer/icons/issues/6) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+4. 🗣 Commented on [#6](https://github.com/notion-enhancer/icons/issues/6) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+5. ❗️ Opened issue [#6](https://github.com/notion-enhancer/icons/issues/6) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
 <!--END_SECTION:activity-->
 
 
