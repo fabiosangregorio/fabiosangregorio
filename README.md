@@ -12,10 +12,10 @@ How can I help you?
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
-2. ❗️ Opened issue [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-3. ❗️ Closed issue [#4](https://github.com/fabiosangregorio/links-disabler/issues/4) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-4. 🗣 Commented on [#4](https://github.com/fabiosangregorio/links-disabler/issues/4) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-5. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+2. 🗣 Commented on [#3](https://github.com/notion-enhancer/icons/issues/3) in [notion-enhancer/icons](https://github.com/notion-enhancer/icons)
+3. ❗️ Opened issue [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+4. ❗️ Closed issue [#4](https://github.com/fabiosangregorio/links-disabler/issues/4) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+5. 🗣 Commented on [#4](https://github.com/fabiosangregorio/links-disabler/issues/4) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
 <!--END_SECTION:activity-->
 
 
