@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/SAP/credential-digger/pull/63) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-2. 🗣 Commented on [#14](https://github.com/darvid/python-hyperscan/issues/14) in [darvid/python-hyperscan](https://github.com/darvid/python-hyperscan)
-3. 🗣 Commented on [#14](https://github.com/darvid/python-hyperscan/issues/14) in [darvid/python-hyperscan](https://github.com/darvid/python-hyperscan)
-4. 🗣 Commented on [#42](https://github.com/jamesgeorge007/github-activity-readme/issues/42) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#289](https://github.com/notion-enhancer/notion-enhancer/pull/289) in [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer)
+1. 🗣 Commented on [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+2. ❗️ Closed issue [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+3. ❗️ Closed issue [#3](https://github.com/fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+4. 🗣 Commented on [#3](https://github.com/fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+5. 💪 Opened PR [#63](https://github.com/SAP/credential-digger/pull/63) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 <!--END_SECTION:activity-->
 
 
