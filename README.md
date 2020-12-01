@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/HunterMcGushion/docstr_coverage/issues/33) in [HunterMcGushion/docstr_coverage](https://github.com/HunterMcGushion/docstr_coverage)
-2. 🗣 Commented on [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-3. ❗️ Closed issue [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-4. ❗️ Closed issue [#3](https://github.com/fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-5. 🗣 Commented on [#3](https://github.com/fabiosangregorio/links-disabler/issues/3) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+1. 🎉 Merged PR [#5](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/5) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
+2. 💪 Opened PR [#5](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/5) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
+3. 🗣 Commented on [#33](https://github.com/HunterMcGushion/docstr_coverage/issues/33) in [HunterMcGushion/docstr_coverage](https://github.com/HunterMcGushion/docstr_coverage)
+4. 🗣 Commented on [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
+5. ❗️ Closed issue [#5](https://github.com/fabiosangregorio/links-disabler/issues/5) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
 <!--END_SECTION:activity-->
 
 
