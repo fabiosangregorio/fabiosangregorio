@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/fabiosangregorio/telereddit/pull/36) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-2. 💪 Opened PR [#36](https://github.com/fabiosangregorio/telereddit/pull/36) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-3. 🎉 Merged PR [#3](https://github.com/samuelexferri/unibg-gis/pull/3) in [samuelexferri/unibg-gis](https://github.com/samuelexferri/unibg-gis)
-4. 💪 Opened PR [#3](https://github.com/samuelexferri/unibg-gis/pull/3) in [samuelexferri/unibg-gis](https://github.com/samuelexferri/unibg-gis)
-5. 🎉 Merged PR [#5](https://github.com/fabiosangregorio/fabio.sangregorio.dev/pull/5) in [fabiosangregorio/fabio.sangregorio.dev](https://github.com/fabiosangregorio/fabio.sangregorio.dev)
+1. 💪 Opened PR [#66](https://github.com/SAP/credential-digger/pull/66) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+2. 🎉 Merged PR [#36](https://github.com/fabiosangregorio/telereddit/pull/36) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+3. 💪 Opened PR [#36](https://github.com/fabiosangregorio/telereddit/pull/36) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+4. 🎉 Merged PR [#3](https://github.com/samuelexferri/unibg-gis/pull/3) in [samuelexferri/unibg-gis](https://github.com/samuelexferri/unibg-gis)
+5. 💪 Opened PR [#3](https://github.com/samuelexferri/unibg-gis/pull/3) in [samuelexferri/unibg-gis](https://github.com/samuelexferri/unibg-gis)
 <!--END_SECTION:activity-->
 
 
