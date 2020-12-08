@@ -11,11 +11,11 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/SAP/credential-digger/pull/66) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-2. 🎉 Merged PR [#36](https://github.com/fabiosangregorio/telereddit/pull/36) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-3. 💪 Opened PR [#36](https://github.com/fabiosangregorio/telereddit/pull/36) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-4. 🎉 Merged PR [#3](https://github.com/samuelexferri/unibg-gis/pull/3) in [samuelexferri/unibg-gis](https://github.com/samuelexferri/unibg-gis)
-5. 💪 Opened PR [#3](https://github.com/samuelexferri/unibg-gis/pull/3) in [samuelexferri/unibg-gis](https://github.com/samuelexferri/unibg-gis)
+1. 🗣 Commented on [#69](https://github.com/SAP/credential-digger/issues/69) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+2. 💪 Opened PR [#69](https://github.com/SAP/credential-digger/pull/69) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+3. ❌ Closed PR [#68](https://github.com/SAP/credential-digger/pull/68) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+4. 💪 Opened PR [#68](https://github.com/SAP/credential-digger/pull/68) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+5. 💪 Opened PR [#67](https://github.com/SAP/credential-digger/pull/67) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 <!--END_SECTION:activity-->
 
 
