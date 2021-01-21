@@ -11,16 +11,16 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/SAP/credential-digger/issues/74) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-2. 💪 Opened PR [#77](https://github.com/SAP/credential-digger/pull/77) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-3. 💪 Opened PR [#75](https://github.com/SAP/credential-digger/pull/75) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-4. 💪 Opened PR [#74](https://github.com/SAP/credential-digger/pull/74) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-5. 💪 Opened PR [#73](https://github.com/SAP/credential-digger/pull/73) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-6. 💪 Opened PR [#72](https://github.com/SAP/credential-digger/pull/72) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-7. 💪 Opened PR [#71](https://github.com/SAP/credential-digger/pull/71) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-8. ❌ Closed PR [#70](https://github.com/SAP/credential-digger/pull/70) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-9. 💪 Opened PR [#70](https://github.com/SAP/credential-digger/pull/70) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-10. 🗣 Commented on [#67](https://github.com/SAP/credential-digger/issues/67) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+1. 🗣 Commented on [#203](https://github.com/mitmproxy/pdoc/issues/203) in [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc)
+2. 🗣 Commented on [#74](https://github.com/SAP/credential-digger/issues/74) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+3. 💪 Opened PR [#77](https://github.com/SAP/credential-digger/pull/77) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+4. 💪 Opened PR [#75](https://github.com/SAP/credential-digger/pull/75) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+5. 💪 Opened PR [#74](https://github.com/SAP/credential-digger/pull/74) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+6. 💪 Opened PR [#73](https://github.com/SAP/credential-digger/pull/73) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+7. 💪 Opened PR [#72](https://github.com/SAP/credential-digger/pull/72) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+8. 💪 Opened PR [#71](https://github.com/SAP/credential-digger/pull/71) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+9. ❌ Closed PR [#70](https://github.com/SAP/credential-digger/pull/70) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+10. 💪 Opened PR [#70](https://github.com/SAP/credential-digger/pull/70) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 <!--END_SECTION:activity-->
 
 ### 📈 Stats
