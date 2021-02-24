@@ -11,16 +11,16 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/jrfonseca/gprof2dot/issues/67) in [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)
-2. ❗️ Opened issue [#67](https://github.com/jrfonseca/gprof2dot/issues/67) in [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)
-3. 💪 Opened PR [#87](https://github.com/SAP/credential-digger/pull/87) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-4. 🗣 Commented on [#584](https://github.com/gitpython-developers/GitPython/issues/584) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
-5. 🗣 Commented on [#84](https://github.com/SAP/credential-digger/issues/84) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-6. 💪 Opened PR [#84](https://github.com/SAP/credential-digger/pull/84) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-7. 💪 Opened PR [#83](https://github.com/SAP/credential-digger/pull/83) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-8. 🗣 Commented on [#81](https://github.com/SAP/credential-digger/issues/81) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-9. 💪 Opened PR [#81](https://github.com/SAP/credential-digger/pull/81) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-10. 💪 Opened PR [#78](https://github.com/SAP/credential-digger/pull/78) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+1. ❗️ Opened issue [#1754](https://github.com/JonathanGin52/JonathanGin52/issues/1754) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. 🗣 Commented on [#67](https://github.com/jrfonseca/gprof2dot/issues/67) in [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)
+3. ❗️ Opened issue [#67](https://github.com/jrfonseca/gprof2dot/issues/67) in [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)
+4. 💪 Opened PR [#87](https://github.com/SAP/credential-digger/pull/87) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+5. 🗣 Commented on [#584](https://github.com/gitpython-developers/GitPython/issues/584) in [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
+6. 🗣 Commented on [#84](https://github.com/SAP/credential-digger/issues/84) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+7. 💪 Opened PR [#84](https://github.com/SAP/credential-digger/pull/84) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+8. 💪 Opened PR [#83](https://github.com/SAP/credential-digger/pull/83) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+9. 🗣 Commented on [#81](https://github.com/SAP/credential-digger/issues/81) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+10. 💪 Opened PR [#81](https://github.com/SAP/credential-digger/pull/81) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 <!--END_SECTION:activity-->
 
 ### 📈 Stats
