@@ -11,9 +11,9 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/SAP/credential-digger/issues/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-2. 💪 Opened PR [#95](https://github.com/SAP/credential-digger/pull/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-3. 💪 Opened PR [#93](https://github.com/SAP/credential-digger/pull/93) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+1. 💪 Opened PR [#97](https://github.com/SAP/credential-digger/pull/97) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+2. 🗣 Commented on [#95](https://github.com/SAP/credential-digger/issues/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+3. 💪 Opened PR [#95](https://github.com/SAP/credential-digger/pull/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 4. ❗️ Opened issue [#6](https://github.com/fabiosangregorio/links-disabler/issues/6) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
 5. 💪 Opened PR [#90](https://github.com/SAP/credential-digger/pull/90) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 6. 💪 Opened PR [#89](https://github.com/SAP/credential-digger/pull/89) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
