@@ -11,12 +11,12 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5340](https://github.com/badges/shields/issues/5340) in [badges/shields](https://github.com/badges/shields)
-2. 💪 Opened PR [#97](https://github.com/SAP/credential-digger/pull/97) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-3. 🗣 Commented on [#95](https://github.com/SAP/credential-digger/issues/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-4. ❗️ Opened issue [#6](https://github.com/fabiosangregorio/links-disabler/issues/6) in [fabiosangregorio/links-disabler](https://github.com/fabiosangregorio/links-disabler)
-5. 💪 Opened PR [#90](https://github.com/SAP/credential-digger/pull/90) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-6. 💪 Opened PR [#89](https://github.com/SAP/credential-digger/pull/89) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+1. ❗️ Closed issue [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+2. ❗️ Opened issue [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+3. 🗣 Commented on [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+4. 🗣 Commented on [#5340](https://github.com/badges/shields/issues/5340) in [badges/shields](https://github.com/badges/shields)
+5. 💪 Opened PR [#97](https://github.com/SAP/credential-digger/pull/97) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+6. 🗣 Commented on [#95](https://github.com/SAP/credential-digger/issues/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 7. 🗣 Commented on [#87](https://github.com/SAP/credential-digger/issues/87) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
 8. ❗️ Opened issue [#1754](https://github.com/JonathanGin52/JonathanGin52/issues/1754) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 9. 🗣 Commented on [#67](https://github.com/jrfonseca/gprof2dot/issues/67) in [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)
