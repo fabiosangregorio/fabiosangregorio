@@ -11,15 +11,15 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-2. ❗️ Closed issue [#1](https://github.com/fabiosangregorio/pyreddit/issues/1) in [fabiosangregorio/pyreddit](https://github.com/fabiosangregorio/pyreddit)
-3. ❗️ Opened issue [#1](https://github.com/fabiosangregorio/pyreddit/issues/1) in [fabiosangregorio/pyreddit](https://github.com/fabiosangregorio/pyreddit)
-4. ❗️ Closed issue [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-5. ❗️ Opened issue [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-6. 🗣 Commented on [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
-7. 🗣 Commented on [#5340](https://github.com/badges/shields/issues/5340) in [badges/shields](https://github.com/badges/shields)
-8. 💪 Opened PR [#97](https://github.com/SAP/credential-digger/pull/97) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
-9. 🗣 Commented on [#95](https://github.com/SAP/credential-digger/issues/95) in [SAP/credential-digger](https://github.com/SAP/credential-digger)
+1. ❗️ Closed issue [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+2. 🗣 Commented on [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+3. 🗣 Commented on [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+4. ❗️ Closed issue [#1](https://github.com/fabiosangregorio/pyreddit/issues/1) in [fabiosangregorio/pyreddit](https://github.com/fabiosangregorio/pyreddit)
+5. ❗️ Opened issue [#1](https://github.com/fabiosangregorio/pyreddit/issues/1) in [fabiosangregorio/pyreddit](https://github.com/fabiosangregorio/pyreddit)
+6. ❗️ Closed issue [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+7. ❗️ Opened issue [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+8. 🗣 Commented on [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+9. 🗣 Commented on [#5340](https://github.com/badges/shields/issues/5340) in [badges/shields](https://github.com/badges/shields)
 10. ❗️ Opened issue [#67](https://github.com/jrfonseca/gprof2dot/issues/67) in [jrfonseca/gprof2dot](https://github.com/jrfonseca/gprof2dot)
 <!--END_SECTION:activity-->
 
