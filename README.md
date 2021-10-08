@@ -11,9 +11,9 @@ How can I help you?
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/MacRusher/dobble-generator/issues/6) in [MacRusher/dobble-generator](https://github.com/MacRusher/dobble-generator)
-2. 🗣 Commented on [#2565](https://github.com/Hacker0x01/react-datepicker/issues/2565) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
-3. ❗️ Closed issue [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
+1. 🗣 Commented on [#8](https://github.com/MacRusher/dobble-generator/issues/8) in [MacRusher/dobble-generator](https://github.com/MacRusher/dobble-generator)
+2. 🗣 Commented on [#6](https://github.com/MacRusher/dobble-generator/issues/6) in [MacRusher/dobble-generator](https://github.com/MacRusher/dobble-generator)
+3. 🗣 Commented on [#2565](https://github.com/Hacker0x01/react-datepicker/issues/2565) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
 4. 🗣 Commented on [#38](https://github.com/fabiosangregorio/telereddit/issues/38) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
 5. ❗️ Opened issue [#1](https://github.com/fabiosangregorio/pyreddit/issues/1) in [fabiosangregorio/pyreddit](https://github.com/fabiosangregorio/pyreddit)
 6. ❗️ Closed issue [#37](https://github.com/fabiosangregorio/telereddit/issues/37) in [fabiosangregorio/telereddit](https://github.com/fabiosangregorio/telereddit)
